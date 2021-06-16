@@ -5,7 +5,7 @@ Project name: eDOC@IITI
 
 The aim is to build a platform online (web application) that will remove the hassle and help in seamless medical help to all the residents. Medical history and symptoms are very important for a doctor for a diagnosis. The medical file is easily misplaced and hence no proper information is available for the doctors and this web application will help a patient, a doctor, and the store to track and ease accessibility. Giving an overview, Patients and Doctors can log in themselves on the platform. The Patient can take appointments for specialists. Online consultation sessions with doctors can also be booked according to their schedule. Online counseling services can be another added advantage. This will be an initiative to improve the medical system of the institute.
 
-TECH STACK - HTML, CSS, JavaScript, JQuery, JSON, BOOTSTRAP, PHP, MYSQL, API
+TECH STACK - HTML, CSS, JavaScript, JQuery, PHP, MYSQL, BootStrap
 
 ### MySQL Databse- Medical Appointment booking website website 
 ![mySql_database](https://user-images.githubusercontent.com/56549165/97178998-514a9700-17be-11eb-9186-80ca3a5251b1.PNG)
